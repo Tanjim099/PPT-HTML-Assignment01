@@ -1,0 +1,8 @@
+<!DOCTYPE html> is not a tag in HTML. It is known as the Document Type Declaration,
+or simply the DOCTYPE declaration. It is used to specify the version of HTML or
+XHTML that a web page is written in.
+
+The DOCTYPE declaration is placed at the very beginning of an HTML document,
+before the <html> tag. It informs the web browser or HTML validator about
+the type of markup language used in the document. This helps the browser
+or validator to interpret and display the document correctly.

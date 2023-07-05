@@ -1,0 +1,20 @@
+Semantic tags in HTML are elements that provide meaning and structure to the 
+content within a web page. They describe the purpose or role of the content,
+rather than just its appearance. Semantic tags help search engines,
+assistive technologies, and other tools understand the content better,
+which can lead to improved accessibility, search engine optimization (SEO),
+and overall user experience.
+
+Here are some common semantic tags in HTML5:
+
+<header>: Represents the introductory content or a group of navigational links at the top of a page.
+<nav>: Defines a section containing navigation links.
+<main>: Represents the main content of a document or application.
+<article>: Represents a self-contained composition within a document, such as a blog post or news article.
+<section>: Defines a standalone section of content.
+<aside>: Represents content that is tangentially related to the surrounding content, like sidebars or pull quotes.
+<footer>: Represents the footer of a page or a section.
+<figure> and <figcaption>: Used together to represent self-contained content, such as images or diagrams, along with a caption.
+By using semantic tags appropriately, you provide a clear structure to your HTML document,
+making it easier for both humans and machines to understand. Here are a few reasons
+why semantic tags are important:

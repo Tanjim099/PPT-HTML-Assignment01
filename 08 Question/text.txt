@@ -1,0 +1,17 @@
+The <img> tag is used to embed an image in an HTML document.
+It is a self-closing tag and requires the src attribute to specify
+the path to the image file. The <img> tag can also include attributes
+like alt (alternate text), width, height, etc., to provide additional
+information about the image.
+
+<img src="image.jpg" alt="Description of the image" width="200" height="150">
+
+On the other hand, the <figure> tag is used to encapsulate media content,
+such as images, illustrations, diagrams, videos, etc., along with their
+associated captions or descriptions. It is a container element that provides
+a semantic structure to group media and its corresponding content.
+
+<figure>
+    <img src="image.jpg" alt="Description of the image" width="200" height="150">
+    <figcaption>Caption or description of the image</figcaption>
+</figure>

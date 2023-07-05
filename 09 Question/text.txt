@@ -1,0 +1,10 @@
+In HTML, tags and attributes serve different purposes:
+
+Tags: HTML tags define the structure and content of elements in an HTML document.
+They are enclosed within angle brackets (< and >). Tags can be either opening tags
+(<tag>) or self-closing tags (<tag />). Examples of HTML tags include <div>, <p>, <img>, <a>, etc.
+
+Attributes: HTML attributes provide additional information or properties to HTML elements.
+They are used within the opening tag of an element and provide specific instructions or details about the element.
+Attributes consist of a name-value pair separated by an equals sign (=). Examples of HTML attributes include src,
+alt, href, class, id, etc.

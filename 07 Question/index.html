@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+        <div class="controls">
+            <button onclick="play()">Play</button>
+            <button onclick="pause()">Pause</button>
+        </div>
+        
+        <audio id="audioPlayer" controls>
+            <source src="path_to_your_audio_file.mp3" type="audio/mpeg">
+        </audio>
+    
+        <script>
+            var audio = document.getElementById("audioPlayer");
+            
+            function play() {
+                audio.play();
+            }
+            
+            function pause() {
+                audio.pause();
+            }
+        </script>
+</body>
+</html>
